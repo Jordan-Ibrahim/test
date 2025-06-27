@@ -29,8 +29,7 @@ What inspired me to take this path? A deep curiosity for how systems work under 
 ## 💻 Tech Stack
 
 ```html
-Languages: Python • JavaScript • SQL  
-Frameworks: Flask • Node.js (in progress)  
-Databases: PostgreSQL • MongoDB  
-Tools: Git • GitHub • VS Code • Postman  
+Languages: Python • 
+Frameworks: Django • Node.js (in progress)  
+Tools: Git • GitHub • VS Code   
 Currently learning: System design, RESTful APIs, Docker
